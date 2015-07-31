@@ -1,1 +1,12 @@
-{"repository":{"type":"git","url":"https://github.com/lukehoggett/MicroView"}}
+{
+    "name": "MicroView",
+    "keywords": "arduino, microview, sparkfun",
+    "description": "Arduino library for Sparkfun Microview",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/lukehoggett/MicroView"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
